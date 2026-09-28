@@ -1,0 +1,6 @@
+interface:
+  display_name: "Cursor Handoff"
+  short_description: "Plan, launch, and verify Cursor CLI agents"
+  default_prompt: "Use $cursor-handoff to plan this task and hand it to Cursor CLI."
+policy:
+  allow_implicit_invocation: false
